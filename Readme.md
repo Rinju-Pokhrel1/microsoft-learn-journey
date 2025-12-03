@@ -28,9 +28,7 @@ This repository highlights:
 | Describe monitoring tools in Azure | [Link](https://learn.microsoft.com/training/modules/azure-monitoring-tools/) | 13 min | [studentamb_492932](https://learn.microsoft.com/users/?wt.mc_id=studentamb_492932) | Tools to monitor Azure resources |
 | Describe features and tools for managing and deploying Azure resources | [Link](https://learn.microsoft.com/training/modules/manage-deploy-azure-resources/) | 22 min | [studentamb_492932](https://learn.microsoft.com/users/?wt.mc_id=studentamb_492932) | Deployment and management of Azure resources |
 | Describe features and tools in Azure for governance and compliance | [Link](https://learn.microsoft.com/training/modules/azure-governance-compliance/) | 34 min | [studentamb_492932](https://learn.microsoft.com/users/?wt.mc_id=studentamb_492932) | Governance and compliance in Azure |
-| ...continue adding all other modules you completed here... |
-
-> ✅ Tip: Use the same table structure to add **all 50+ completed modules**.
+and soon.
 
 ---
 
