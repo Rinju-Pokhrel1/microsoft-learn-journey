@@ -14,22 +14,21 @@ This repository highlights:
 
 ---
 
-## 🎯 Learning Modules Completed
+## 🎯 My Microsoft Learn / Community‑Influencer Links
 
-| Module | Module Link | Duration | Contributor ID | Key Learnings |
-|--------|------------|---------|----------------|---------------|
-| Introduction to Generative AI and Agents | [Open Module](https://learn.microsoft.com/training/modules/introduction-generative-ai-agents/?wt.mc_id=studentamb_492932) | 37 min | [studentamb_492932](https://learn.microsoft.com/users/?wt.mc_id=studentamb_492932) | Basics of generative AI, AI agents |
-| Introduction to Azure Machine Learning Monitoring | [Open Module](https://learn.microsoft.com/training/modules/azure-ml-monitoring/?wt.mc_id=studentamb_492932) | 32 min | [studentamb_492932](https://learn.microsoft.com/users/?wt.mc_id=studentamb_492932) | Monitor ML models, metrics and alerts |
-| Define a Microsoft AI strategy to create business value in retail | [Open Module](https://learn.microsoft.com/training/modules/ai-strategy-retail/?wt.mc_id=studentamb_492932) | 31 min | [studentamb_492932](https://learn.microsoft.com/users/?wt.mc_id=studentamb_492932) | AI strategy for retail business value |
-| Define a Microsoft AI strategy to create business value in nonprofit | [Open Module](https://learn.microsoft.com/training/modules/ai-strategy-nonprofit/?wt.mc_id=studentamb_492932) | 38 min | [studentamb_492932](https://learn.microsoft.com/users/?wt.mc_id=studentamb_492932) | AI strategy for nonprofit organizations |
-| Define a Microsoft AI strategy to create business value in healthcare | [Open Module](https://learn.microsoft.com/training/modules/ai-strategy-healthcare/?wt.mc_id=studentamb_492932) | 33 min | [studentamb_492932](https://learn.microsoft.com/users/?wt.mc_id=studentamb_492932) | AI strategy for healthcare organizations |
-| Define a Microsoft AI strategy to create business value in finance | [Open Module](https://learn.microsoft.com/training/modules/ai-strategy-finance/?wt.mc_id=studentamb_492932) | 30 min | [studentamb_492932](https://learn.microsoft.com/users/?wt.mc_id=studentamb_492932) | AI strategy for financial organizations |
-| Define a Microsoft AI strategy to create business value in manufacturing | [Open Module](https://learn.microsoft.com/training/modules/ai-strategy-manufacturing/?wt.mc_id=studentamb_492932) | 33 min | [studentamb_492932](https://learn.microsoft.com/users/?wt.mc_id=studentamb_492932) | AI strategy for manufacturing sector |
-| Describe monitoring tools in Azure | [Open Module](https://learn.microsoft.com/training/modules/azure-monitoring-tools/?wt.mc_id=studentamb_492932) | 13 min | [studentamb_492932](https://learn.microsoft.com/users/?wt.mc_id=studentamb_492932) | Tools to monitor Azure resources |
-| Describe features and tools for managing and deploying Azure resources | [Open Module](https://learn.microsoft.com/training/modules/manage-deploy-azure-resources/?wt.mc_id=studentamb_492932) | 22 min | [studentamb_492932](https://learn.microsoft.com/users/?wt.mc_id=studentamb_492932) | Deployment and management of Azure resources |
-| Describe features and tools in Azure for governance and compliance | [Open Module](https://learn.microsoft.com/training/modules/azure-governance-compliance/?wt.mc_id=studentamb_492932) | 34 min | [studentamb_492932](https://learn.microsoft.com/users/?wt.mc_id=studentamb_492932) | Governance and compliance in Azure |
+| Module / Resource | Link with Contributor ID |
+|------------------|--------------------------|
+| Introduction to Generative AI and Agents | https://learn.microsoft.com/training/modules/introduction-generative-ai-agents?wt.mc_id=studentamb_492932 |
+| Azure ML Monitoring Module | https://learn.microsoft.com/training/modules/azure-ml-monitoring?wt.mc_id=studentamb_492932 |
+| AI Strategy — Retail | https://learn.microsoft.com/training/modules/ai-strategy-retail?wt.mc_id=studentamb_492932 |
+| AI Strategy — Nonprofit | https://learn.microsoft.com/training/modules/ai-strategy-nonprofit?wt.mc_id=studentamb_492932 |
+| AI Strategy — Healthcare | https://learn.microsoft.com/training/modules/ai-strategy-healthcare?wt.mc_id=studentamb_492932 |
+| AI Strategy — Finance | https://learn.microsoft.com/training/modules/ai-strategy-finance?wt.mc_id=studentamb_492932 |
+| AI Strategy — Manufacturing | https://learn.microsoft.com/training/modules/ai-strategy-manufacturing?wt.mc_id=studentamb_492932 |
+| Azure Monitoring Tools | https://learn.microsoft.com/training/modules/azure-monitoring-tools?wt.mc_id=studentamb_492932 |
+| Deploy & Manage Azure Resources | https://learn.microsoft.com/training/modules/manage-deploy-azure-resources?wt.mc_id=studentamb_492932 |
+| Azure Governance & Compliance | https://learn.microsoft.com/training/modules/azure-governance-compliance?wt.mc_id=studentamb_492932 |
 
----
 
 ## 📝 Community Influencer Activities
 
