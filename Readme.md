@@ -14,20 +14,22 @@ This repository highlights:
 
 ---
 
-## 🎯 My Microsoft Learn / Community‑Influencer Links
+## 🎯 Learning Modules Completed
 
-| Module / Resource | Module Link | Contributor ID |
-|------------------|------------|----------------|
-| Introduction to Generative AI and Agents | [Open Module](https://learn.microsoft.com/training/modules/introduction-generative-ai-agents/) | studentamb_492932 |
-| Azure ML Monitoring Module | [Open Module](https://learn.microsoft.com/training/modules/azure-ml-monitoring/) | studentamb_492932 |
-| AI Strategy — Retail | [Open Module](https://learn.microsoft.com/training/modules/ai-strategy-retail/) | studentamb_492932 |
-| AI Strategy — Nonprofit | [Open Module](https://learn.microsoft.com/training/modules/ai-strategy-nonprofit/) | studentamb_492932 |
-| AI Strategy — Healthcare | [Open Module](https://learn.microsoft.com/training/modules/ai-strategy-healthcare/) | studentamb_492932 |
-| AI Strategy — Finance | [Open Module](https://learn.microsoft.com/training/modules/ai-strategy-finance/) | studentamb_492932 |
-| AI Strategy — Manufacturing | [Open Module](https://learn.microsoft.com/training/modules/ai-strategy-manufacturing/) | studentamb_492932 |
-| Azure Monitoring Tools | [Open Module](https://learn.microsoft.com/training/modules/azure-monitoring-tools/) | studentamb_492932 |
-| Deploy & Manage Azure Resources | [Open Module](https://learn.microsoft.com/training/modules/manage-deploy-azure-resources/) | studentamb_492932 |
-| Azure Governance & Compliance | [Open Module](https://learn.microsoft.com/training/modules/azure-governance-compliance/) | studentamb_492932 |
+| Module | Module Link (with Contributor ID) | Duration | Key Learnings |
+|--------|----------------------------------|----------|----------------|
+| Introduction to Generative AI and Agents | https://learn.microsoft.com/training/modules/introduction-generative-ai-agents?wt.mc_id=studentamb_492932 | 37 min | Basics of generative AI, agents, foundation concepts |
+| Monitor Azure Machine Learning Models | https://learn.microsoft.com/training/modules/monitor-azure-machine-learning?wt.mc_id=studentamb_492932 | 32 min | Model monitoring, diagnostics, alerts |
+| AI Strategy for Retail | https://learn.microsoft.com/training/modules/ai-strategy-retail?wt.mc_id=studentamb_492932 | 31 min | Retail transformation using AI |
+| AI Strategy for Nonprofits | https://learn.microsoft.com/training/modules/ai-strategy-nonprofit?wt.mc_id=studentamb_492932 | 38 min | Applying AI in nonprofit organizations |
+| AI Strategy for Healthcare | https://learn.microsoft.com/training/modules/ai-strategy-healthcare?wt.mc_id=studentamb_492932 | 33 min | AI use cases in healthcare |
+| AI Strategy for Finance | https://learn.microsoft.com/training/modules/ai-strategy-finance?wt.mc_id=studentamb_492932 | 30 min | AI opportunities in finance |
+| AI Strategy for Manufacturing | https://learn.microsoft.com/training/modules/ai-strategy-manufacturing-industry?wt.mc_id=studentamb_492932 | 33 min | AI in manufacturing & automation |
+| Azure Monitoring Tools Overview | https://learn.microsoft.com/training/modules/monitor-azure-overview?wt.mc_id=studentamb_492932 | 13 min | Azure Monitor, features & tools |
+| Manage & Deploy Azure Resources | https://learn.microsoft.com/training/modules/intro-to-azure-management?wt.mc_id=studentamb_492932 | 22 min | ARM, templates, deployment centers |
+| Azure Governance & Compliance | https://learn.microsoft.com/training/modules/azure-governance?wt.mc_id=studentamb_492932 | 34 min | Azure Policy, Blueprints, RBAC |
+
+---
 
 
 
