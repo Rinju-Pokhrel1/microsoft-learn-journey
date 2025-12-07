@@ -16,18 +16,19 @@ This repository highlights:
 
 ## 🎯 My Microsoft Learn / Community‑Influencer Links
 
-| Module / Resource | Link with Contributor ID |
-|------------------|--------------------------|
-| Introduction to Generative AI and Agents | https://learn.microsoft.com/training/modules/introduction-generative-ai-agents?wt.mc_id=studentamb_492932 |
-| Azure ML Monitoring Module | https://learn.microsoft.com/training/modules/azure-ml-monitoring?wt.mc_id=studentamb_492932 |
-| AI Strategy — Retail | https://learn.microsoft.com/training/modules/ai-strategy-retail?wt.mc_id=studentamb_492932 |
-| AI Strategy — Nonprofit | https://learn.microsoft.com/training/modules/ai-strategy-nonprofit?wt.mc_id=studentamb_492932 |
-| AI Strategy — Healthcare | https://learn.microsoft.com/training/modules/ai-strategy-healthcare?wt.mc_id=studentamb_492932 |
-| AI Strategy — Finance | https://learn.microsoft.com/training/modules/ai-strategy-finance?wt.mc_id=studentamb_492932 |
-| AI Strategy — Manufacturing | https://learn.microsoft.com/training/modules/ai-strategy-manufacturing?wt.mc_id=studentamb_492932 |
-| Azure Monitoring Tools | https://learn.microsoft.com/training/modules/azure-monitoring-tools?wt.mc_id=studentamb_492932 |
-| Deploy & Manage Azure Resources | https://learn.microsoft.com/training/modules/manage-deploy-azure-resources?wt.mc_id=studentamb_492932 |
-| Azure Governance & Compliance | https://learn.microsoft.com/training/modules/azure-governance-compliance?wt.mc_id=studentamb_492932 |
+| Module / Resource | Module Link | Contributor ID |
+|------------------|------------|----------------|
+| Introduction to Generative AI and Agents | [Open Module](https://learn.microsoft.com/training/modules/introduction-generative-ai-agents/) | studentamb_492932 |
+| Azure ML Monitoring Module | [Open Module](https://learn.microsoft.com/training/modules/azure-ml-monitoring/) | studentamb_492932 |
+| AI Strategy — Retail | [Open Module](https://learn.microsoft.com/training/modules/ai-strategy-retail/) | studentamb_492932 |
+| AI Strategy — Nonprofit | [Open Module](https://learn.microsoft.com/training/modules/ai-strategy-nonprofit/) | studentamb_492932 |
+| AI Strategy — Healthcare | [Open Module](https://learn.microsoft.com/training/modules/ai-strategy-healthcare/) | studentamb_492932 |
+| AI Strategy — Finance | [Open Module](https://learn.microsoft.com/training/modules/ai-strategy-finance/) | studentamb_492932 |
+| AI Strategy — Manufacturing | [Open Module](https://learn.microsoft.com/training/modules/ai-strategy-manufacturing/) | studentamb_492932 |
+| Azure Monitoring Tools | [Open Module](https://learn.microsoft.com/training/modules/azure-monitoring-tools/) | studentamb_492932 |
+| Deploy & Manage Azure Resources | [Open Module](https://learn.microsoft.com/training/modules/manage-deploy-azure-resources/) | studentamb_492932 |
+| Azure Governance & Compliance | [Open Module](https://learn.microsoft.com/training/modules/azure-governance-compliance/) | studentamb_492932 |
+
 
 
 ## 📝 Community Influencer Activities
