@@ -15,7 +15,7 @@ This repository highlights:
 ---
 | Module | Module Link (Working) | Duration | Key Learnings |
 |--------|------------------------|----------|---------------|
-| Introduction to Generative AI and Agents | https://learn.microsoft.com/training/modules/introduction-generative-ai-agents?WT.mc_id=cloudskillschallenge_studentamb_492932 | 37 min | Basics of generative AI, agents, foundation concepts |
+| Introduction to Generative AI and Agents | https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/?WT.mc_id=cloudskillschallenge_studentamb_492932 | 37 min | Basics of generative AI, agents, foundation concepts |
 | Monitor Azure Machine Learning Models | https://learn.microsoft.com/training/modules/monitor-azure-machine-learning?WT.mc_id=cloudskillschallenge_studentamb_492932 | 32 min | Model monitoring, diagnostics, alerts |
 | AI Strategy for Retail | https://learn.microsoft.com/training/modules/ai-strategy-retail?WT.mc_id=cloudskillschallenge_studentamb_492932 | 31 min | Retail transformation using AI |
 | AI Strategy for Nonprofits | https://learn.microsoft.com/training/modules/ai-strategy-nonprofit?WT.mc_id=cloudskillschallenge_studentamb_492932 | 38 min | Applying AI in nonprofit organizations |
