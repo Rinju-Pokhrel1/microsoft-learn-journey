@@ -17,14 +17,14 @@ This repository highlights:
 |--------|------------------------|----------|---------------|
 | Introduction to Generative AI and Agents | https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/?WT.mc_id=cloudskillschallenge_studentamb_492932 | 37 min | Basics of generative AI, agents, foundation concepts |
 | Monitor Azure Machine Learning Models | https://learn.microsoft.com/training/modules/monitor-azure-machine-learning?WT.mc_id=cloudskillschallenge_studentamb_492932 | 32 min | Model monitoring, diagnostics, alerts |
-| AI Strategy for Retail | https://learn.microsoft.com/training/modules/ai-strategy-retail?WT.mc_id=cloudskillschallenge_studentamb_492932 | 31 min | Retail transformation using AI |
-| AI Strategy for Nonprofits | https://learn.microsoft.com/training/modules/ai-strategy-nonprofit?WT.mc_id=cloudskillschallenge_studentamb_492932 | 38 min | Applying AI in nonprofit organizations |
-| AI Strategy for Healthcare | https://learn.microsoft.com/training/modules/ai-strategy-healthcare?WT.mc_id=cloudskillschallenge_studentamb_492932 | 33 min | AI use cases in healthcare |
-| AI Strategy for Finance | https://learn.microsoft.com/training/modules/ai-strategy-finance?WT.mc_id=cloudskillschallenge_studentamb_492932 | 30 min | AI opportunities in finance |
-| AI Strategy for Manufacturing | https://learn.microsoft.com/training/modules/ai-strategy-manufacturing-industry?WT.mc_id=cloudskillschallenge_studentamb_492932 | 33 min | AI in manufacturing & automation |
-| Azure Monitoring Tools Overview | https://learn.microsoft.com/training/modules/monitor-azure-overview?WT.mc_id=cloudskillschallenge_studentamb_492932 | 13 min | Azure Monitor overview |
-| Manage & Deploy Azure Resources | https://learn.microsoft.com/training/modules/intro-to-azure-management?WT.mc_id=cloudskillschallenge_studentamb_492932 | 22 min | ARM, templates, deployments |
-| Azure Governance & Compliance | https://learn.microsoft.com/training/modules/azure-governance?WT.mc_id=cloudskillschallenge_studentamb_492932 | 34 min | Azure Policy, RBAC, compliance |
+| AI Strategy for Retail |https://learn.microsoft.com/en-us/training/modules/define-microsoft-ai-strategy-retail/a?WT.mc_id=cloudskillschallenge_studentamb_492932 | 31 min | Retail transformation using AI |
+| AI Strategy for Nonprofits | https://learn.microsoft.com/en-us/training/modules/define-microsoft-ai-strategy-create-business-value-nonprofit/?WT.mc_id=cloudskillschallenge_studentamb_492932 | 38 min | Applying AI in nonprofit organizations |
+| AI Strategy for Healthcare | https://learn.microsoft.com/en-us/training/modules/define-microsoft-ai-strategy-healthcare/?WT.mc_id=cloudskillschallenge_studentamb_492932 | 33 min | AI use cases in healthcare |
+| AI Strategy for Finance | https://learn.microsoft.com/en-us/training/modules/define-microsoft-ai-strategy-finance/?WT.mc_id=cloudskillschallenge_studentamb_492932 | 30 min | AI opportunities in finance |
+| AI Strategy for Manufacturing | https://learn.microsoft.com/en-us/training/modules/define-microsoft-ai-strategy-manufacturing/?WT.mc_id=cloudskillschallenge_studentamb_492932 | 33 min | AI in manufacturing & automation |
+| Azure Monitoring Tools Overview | https://learn.microsoft.com/en-us/training/modules/describe-monitoring-tools-azure/?WT.mc_id=cloudskillschallenge_studentamb_492932 | 13 min | Azure Monitor overview |
+| Manage & Deploy Azure Resources | https://learn.microsoft.com/en-us/training/modules/describe-features-tools-manage-deploy-azure-resources/?WT.mc_id=cloudskillschallenge_studentamb_492932 | 22 min | ARM, templates, deployments |
+| Azure Governance & Compliance | https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/?WT.mc_id=cloudskillschallenge_studentamb_492932 | 34 min | Azure Policy, RBAC, compliance |
 
 
 
